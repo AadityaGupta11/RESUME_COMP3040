@@ -1,5 +1,3 @@
-# HUNG LU DAO
-
 ### Email: hungludao@gmail.com
 ### Phone number: + 1 204 807 2877
 ### Address: 1045 Howard Avenue, Winnipeg, MB, CA, R3T 1S1
