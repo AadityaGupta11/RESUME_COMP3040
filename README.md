@@ -76,7 +76,7 @@ title: "RESUME OF [Your Name]"
 
 ### ANIMATED GIF FROM MY RESUME
 
-<img src="/animated_gif/animated.gif" alt="my_resume" width="500" height="300" />
+<img src="/animated_gif/aninated.gif" alt="my_resume" width="800" height="500"/>
 
 ### MORE RESOURCES
 1. [Markdown Tutorial](https://www.markdowntutorial.com/)
