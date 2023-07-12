@@ -48,6 +48,11 @@
 
    [Instagram stories](https://play.tailwindcss.com/GWwBUhp6WN?size=540x720): use the TailWind Framework 
 
+   COMP3350, Software Engineerring 1
+
+   Mobile application developer:
+   - Implement an Android application that will be used to help gym-goers track and visualize their activity at the gym. It will keep information such as day of workout, workout time, exerxcises performed, and time performing each exercises. This information is then used to provide an easy to interpret visual representation of the gym-goers workout activity
+
 ****
 
 ### SKILLS
